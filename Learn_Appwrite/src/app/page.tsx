@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div>
       <header>
-        <h1>Note Ninja</h1>
+        <h1>Note Kilonzo</h1>
       </header>
 
       <NoteList initialNotes={notes} />
